@@ -1,0 +1,17 @@
+# Ignorer les fichiers temporaires
+*.tmp
+
+# Ignorer les fichiers de compilation
+*.o
+*.out
+*.exe
+
+# Ignorer les fichiers et répertoires générés par des IDE ou éditeurs de texte
+.vscode/
+.idea/
+*.pyc
+
+# Ignorer les fichiers de dépendances ou de build
+/node_modules
+/build
+/dist
