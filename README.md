@@ -1,1 +1,20 @@
 ﻿# Prédiction des Emissions de CO2 des Véhicules Commercialisés en France
+
+Contexte: Depuis 2001, l’ADEME(Agence de l'Environnement et de la Maîtrise de l'Energie) acquiert tous les ans des données sur les émissions de polluants et les caractéristiques techniques des véhicules commercialisés en France auprès de l’Union Technique de l’Automobile du motocycle et du Cycle UTAC (en charge de l’homologation des véhicules avant leur mise en vente) en accord avec le ministère du développement durable.
+
+Pour chaque véhicule, les données d’origine (transmises par l’Utac) sont les suivantes :
+
+. les consommations de carburant
+
+. les émissions de dioxyde de carbone (CO2)
+
+. les émissions des polluants de l’air (réglementés dans le cadre de la norme Euro)
+
+. l’ensemble des caractéristiques techniques des véhicules (gammes, marques, modèles, n° de CNIT, type   d’énergie ...)
+
+L'objectif est de prédire les émissions de dioxyde de carbonne (CO2) des véhicules commercialisés en France en utilisant comme informations leurs caractéristiques techniques et leurs consommations en carburant. Différentes méthodes d'apprentissage automatique (Régression Linéaire, RandomForest, XGBoost) sont utilisés. Après une comparaison des performances de chacune d'elles, le meilleur modèle est choisi et déployé via une API(Application Programming Interface), FastAPI dans notre contexte. Cette API va permettre de rendre exploitable notre modèle par un utilisateur lambda qui pourra faire des prédictions en utilisant de nouvelles informations provennants de nouveaux véhicules. Notre API est ensuite conténeuriser sur Doker. 
+
+La base de données que nous avons exploité pour ce projet est fournis par le site gouvernemental data.gouv.fr.
+
+
+Source des données: https://www.data.gouv.fr/fr/datasets/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france/
