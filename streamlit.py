@@ -3,7 +3,7 @@ import pandas as pd
 from joblib import load
 
 # Chargement des données (Facultatif)
-df = pd.read_csv('data.csv', sep=';', decimal=',', encoding='ISO-8859-1')
+#df = pd.read_csv('data.csv', sep=';', decimal=',', encoding='ISO-8859-1')
 
 # Chargement du modèle
 best_model = load('bestModel.joblib')
