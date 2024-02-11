@@ -27,7 +27,7 @@ Source des données: https://www.data.gouv.fr/fr/datasets/emissions-de-co2-et-de
 
 ## Méthodologie
 
-Après une importation du jeu de données,j'éffectue une **analyse exploratoire** qui consiste à faire un état des lieux des **valeurs manquantes** et à éffectuer les **statistiques descriptives** ainsi qu'une recherche des **corrélations** existantes entre les variables. La **modélisation** des données est ensuite appréhender et le meilleur modèle est choisis et sauvégarder pour être déployer. Le meilleur modèle de prédiction de CO2 est ensuite mise en production à travers FastAPI et intègré également dans une application Streamlit pour permettre aux utilisateurs d'interagir avec le modèle et de faire des prédictions en saisisant en paramètres les données du véhicule dont ils souhaitent prédire l'émission de CO2.
+Après une importation du jeu de données,j'éffectue une **analyse exploratoire** qui consiste à faire un état des lieux des **valeurs manquantes** et à éffectuer les **statistiques descriptives** ainsi qu'une recherche des **corrélations** existantes entre les variables. La **modélisation** des données est ensuite appréhender et le meilleur modèle est choisis et sauvégarder pour être déployé. Le meilleur modèle de prédiction de CO2 est ensuite mise en production à travers FastAPI et intègré également dans une application Streamlit pour permettre aux utilisateurs d'interagir avec le modèle et de faire des prédictions en saisisant en paramètres les données du véhicule dont ils souhaitent prédire l'émission de CO2.
 
 ## Résultat
 
