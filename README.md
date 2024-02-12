@@ -20,7 +20,7 @@ L'objectif de ce projet est de prédire les émissions de dioxyde de carbonne (C
 
 Le projet comporte trois fichiers de code. Le fichier Prediction_Notebook.ipynb représente le code de modélisation des données, le fichier FastAPI.py est le code de déploiement du meilleur modèle via **FastAPI** et le fichier streamlit.py est le code de déploiement du meilleur modèle sur une application **streamlit**. 
 
-La base de données que nous avons exploité pour ce projet est fournis par le site gouvernemental data.gouv.fr.
+La base de données que nous avons exploité est celle de l'année 2015 et est fournis par le site gouvernemental data.gouv.fr.
 
 Source des données: https://www.data.gouv.fr/fr/datasets/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france/
 
@@ -29,5 +29,21 @@ Source des données: https://www.data.gouv.fr/fr/datasets/emissions-de-co2-et-de
 
 Après une importation du jeu de données,j'éffectue une **analyse exploratoire** qui consiste à faire un état des lieux des **valeurs manquantes** et à éffectuer les **statistiques descriptives** ainsi qu'une recherche des **corrélations** existantes entre les variables. La **modélisation** des données est ensuite appréhender et le meilleur modèle est choisis et sauvégarder pour être déployé. Le meilleur modèle de prédiction de CO2 est ensuite mise en production à travers FastAPI et intègré également dans une application Streamlit pour permettre aux utilisateurs d'interagir avec le modèle et de faire des prédictions en saisisant en paramètres les données du véhicule dont ils souhaitent prédire l'émission de CO2.
 
-## Résultat
+## Résultats
+
+A l'issue de notre étude, nous somme parvenus aux résultats suivants:
+
+*Statistiques descriptives:*
+
+- Les trois marques de véhicules les plus pollueurs en 2015 sont les véhicules de marque LAMBORGHINI suivies de ceux de marque ROOLS-ROYS et ASTON-MARTIN
+- Les véhicules de haute gamme et de moyenne gamme polluent plus que les véhicules de gamme inférieure ou économique
+
+*Modélisation:*
+
+- Le meilleur modèle d'apprentissage automatique pour la prédiction des émissions de co2 est le modèle XGBoost(eXtreme Gradient Boosting) qui offre de meilleures performances que les Régression linéaire et le RandomForest.
+- La variable consommation extra urbaine de carburant (en l/100km) est celle qui a le plus d'influence sur la prédiction de l'emission de CO2. 
+
+*Déploiement:*
+
+Le modèle XGBoost(eXtreme Gradient Boosting) a été déployé et est exploitable via le [lien](https://prediction-emissions-co2-france.streamlit.app/)
 
