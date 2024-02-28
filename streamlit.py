@@ -8,14 +8,14 @@ from joblib import load
 # Chargement du modèle
 best_model = load('bestModel.joblib')
 
-# Titre de l'application
+
 # Titre de l'application
 st.title('Prédiction des émissions de CO2 en France')
 st.subheader('Auteur: Ismael YODA')
 st.write("Cette application est destinée à éffectuer la prévision moyenne annuelle des émissions de CO2 des véhicules commercialisés en France. Elle prend en entrée les caractéristiques techniques du véhicule et sa consommation en carburant et elle renvoie en sortie la prédiction de sa moyenne d'émission annuelle de CO2.")
 
 
-# Définir une fonction de prédiction
+# Fonction de prédiction
 def predict_CO2(puissance_administrative, consommation_extra_urbaine_de_carburant, masse_en_ordre_de_marche_minimale, masse_en_ordre_de_marche_maximale):
     new_data = [[
         puissance_administrative,
