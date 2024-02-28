@@ -35,12 +35,14 @@ A l'issue de notre étude, nous somme parvenus aux résultats suivants:
 
 <u>*Statistiques descriptives:*</u>
 
-- Les trois marques de véhicules les plus polluantes en 2015 sont les véhicules de marque LAMBORGHINI suivies de ceux de marques ROOLS-ROYS et ASTON-MARTIN
-- Les véhicules de haute gamme et de moyenne gamme polluent plus que les véhicules de gamme inférieure ou économique
+- Les trois marques de véhicules les plus polluantes en 2015 sont les véhicules de marque LAMBORGHINI suivies de ceux de marques ROOLS-ROYS et ASTON-MARTIN.
+
+- Les véhicules de haute gamme et de moyenne gamme polluent plus que les véhicules de gamme inférieure ou économique.
 
 <u>*Modélisation:*</u>
 
 - Le meilleur modèle d'apprentissage automatique pour la prédiction des émissions de co2 est le modèle XGBoost(eXtreme Gradient Boosting) qui offre de meilleures performances que les Régression linéaire et le RandomForest.
+
 - La variable consommation extra urbaine de carburant (en l/100km) est celle qui a le plus d'influence sur la prédiction de l'emission de CO2. 
 
 <u>*Déploiement:*</u>
