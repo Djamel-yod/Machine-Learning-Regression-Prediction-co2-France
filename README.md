@@ -42,7 +42,7 @@ A l'issue de notre étude, nous somme parvenus aux résultats suivants:
 
 - Les véhicules de haute gamme et de moyenne gamme polluent plus que les véhicules de gamme inférieure ou économique.
 
-  D'autres statistiques descriptives intéressantes sont disponibles dans le fichier 
+  D'autres statistiques descriptives intéressantes sont disponibles dans le fichier Prediction_Notebook.ipynb.
 
 <u>*Modélisation:*</u>
 
