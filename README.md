@@ -1,6 +1,6 @@
 ﻿# Prédiction des Emissions de CO2 des Véhicules Commercialisés en France
 
-A travers ce projet, je renforce mes compétences en analyse exploratoire de données avec **python**, en développement de modèles de machine learning pour résoudre des problèmes métier concrets, en construction de pipeline de machine learning et en déploiement de modèle de machine learning via une interface graphique web avec **streamlit** et une API **FastAPI**.
+A travers ce projet, je renforce mes compétences en analyses exploratoires de données avec **python**, en développement de modèles de machine learning pour résoudre des problèmes métier concrets, en construction de pipeline de machine learning et en déploiement de modèle de machine learning via une interface graphique web avec **streamlit** et une API **FastAPI**.
 
 
 ## Contexte: 
