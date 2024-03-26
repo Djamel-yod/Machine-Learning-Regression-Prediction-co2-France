@@ -42,6 +42,8 @@ A l'issue de notre étude, nous somme parvenus aux résultats suivants:
 
 - Les véhicules de haute gamme et de moyenne gamme polluent plus que les véhicules de gamme inférieure ou économique.
 
+  D'autres statistiques descriptives intéressantes sont disponibles dans le fichier 
+
 <u>*Modélisation:*</u>
 
 - Le meilleur modèle d'apprentissage automatique pour la prédiction des émissions de co2 est le modèle XGBoost(eXtreme Gradient Boosting) qui offre de meilleures performances que les Régression linéaire et le RandomForest.
