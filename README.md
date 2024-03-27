@@ -63,8 +63,7 @@ Le modèle XGBoost(eXtreme Gradient Boosting) a été déployé et est exploitab
 <img width="391" alt="Capture_Python2" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/66deb372-f524-4d96-b982-7c7c39d8943b">
 <img width="354" alt="Capture_Streamlit" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/6459d320-1f31-4afd-97ca-636a540c05c0">
 <img width="478" alt="Capture_FastAPI" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/1732fb06-b5e6-4d98-a9d0-9c6f3ef6acce"> 
-<img width="319" alt="Capture_mlflow" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/818ca537-f285-4cb8-ab41-78a429c9b7a6">
-<img width="623" alt="Capture_docker" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/96cef592-2c66-4004-b41c-13307f090b08">
+
 
 
 
