@@ -58,7 +58,7 @@ A l'issue de notre étude, nous somme parvenus aux résultats suivants:
 Le modèle XGBoost(eXtreme Gradient Boosting) a été déployé et est exploitable via le [lien](https://prediction-emissions-co2-france.streamlit.app/)
 
 
-# Outils
+## Outils
 
 <img width="391" alt="Capture_Python2" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/66deb372-f524-4d96-b982-7c7c39d8943b">
 <img width="354" alt="Capture_Streamlit" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/6459d320-1f31-4afd-97ca-636a540c05c0">
