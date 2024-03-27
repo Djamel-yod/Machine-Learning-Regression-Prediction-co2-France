@@ -1,6 +1,6 @@
 ﻿# Prédiction des Emissions de CO2 des Véhicules Commercialisés en France
 
-<img width="789" alt="Capture_Pollution" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/c43ff115-477b-4fd0-8e3e-12ae315ccbee">
+<img width="1000" alt="Capture_Pollution" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/c43ff115-477b-4fd0-8e3e-12ae315ccbee">
 
 
 A travers ce projet, je renforce mes compétences en analyses exploratoires de données avec **python**, en développement de modèles de machine learning pour résoudre des problèmes métier concrets, en construction de pipeline de machine learning et en déploiement de modèle de machine learning via une interface graphique web avec **streamlit** et une API **FastAPI**.
