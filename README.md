@@ -1,6 +1,6 @@
 ﻿# Prédiction des Emissions de CO2 des Véhicules Commercialisés en France
 
-[Cliquez ici pour prédire les emissions de C02 de votre véhicule sur une année](https://prediction-emissions-co2-france.streamlit.app/)
+[Cliquez ici pour prédire les emissions de C02 de votre véhicule en g/km](https://prediction-emissions-co2-france.streamlit.app/)
 <img width="1000" alt="Capture_Pollution" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/c43ff115-477b-4fd0-8e3e-12ae315ccbee">
 
 
