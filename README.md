@@ -70,9 +70,9 @@ Le modèle XGBoost(eXtreme Gradient Boosting) a été déployé et est exploitab
 
 
 <a href="#">#MachineLearning</a>
-<a href="#">#Regressions</a>
 <a href="#">#FastAPI </a>
 <a href="#">#Streamlit </a>
+<a href="#">#Python</a>
 
 
 
