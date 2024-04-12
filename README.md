@@ -37,7 +37,7 @@ Après une importation du jeu de données,j'éffectue une **analyse exploratoire
 
 A l'issue de notre étude, nous somme parvenus aux résultats suivants:
 
-<u>*Statistiques descriptives:*</u>
+<u>**Statistiques descriptives:**</u>
 
 - Les trois marques de véhicules les plus polluantes en 2015 sont les véhicules de marque LAMBORGHINI suivies de ceux de marques ROOLS-ROYS et ASTON-MARTIN.
 
@@ -45,13 +45,13 @@ A l'issue de notre étude, nous somme parvenus aux résultats suivants:
 
   D'autres statistiques descriptives intéressantes sont disponibles dans le fichier Prediction_Notebook.ipynb.
 
-<u>*Modélisation:*</u>
+<u>**Modélisation:**</u>
 
 - Le meilleur modèle d'apprentissage automatique pour la prédiction des émissions de CO2 est le modèle XGBoost(eXtreme Gradient Boosting) qui offre de meilleures performances que les Régression linéaire et le RandomForest.
 
 - La variable consommation extra urbaine de carburant (en l/100km) est celle qui a le plus d'influence sur la prédiction de l'emission de CO2. 
 
-<u>*Déploiement:*</u>
+<u>**Déploiement:**</u>
 
 Le modèle XGBoost(eXtreme Gradient Boosting) a été déployé et est exploitable via le [lien](https://prediction-emissions-co2-france.streamlit.app/)
 
