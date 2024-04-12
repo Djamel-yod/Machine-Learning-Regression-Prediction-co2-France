@@ -27,10 +27,7 @@ L'objectif de ce projet est de prédire les émissions de dioxyde de carbonne (C
 
 Le projet comporte trois fichiers de code. Le fichier Prediction_Notebook.ipynb représente le code de modélisation des données, le fichier FastAPI.py est le code de déploiement du meilleur modèle via **FastAPI** et le fichier streamlit.py est le code de déploiement du meilleur modèle sur une application **streamlit**. 
 
-La base de données que nous avons exploité est celle de l'année 2015 et est fournis par le site gouvernemental data.gouv.fr.
-
-Source des données: https://www.data.gouv.fr/fr/datasets/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france/
-
+La base de données que nous avons exploité est celle de l'année 2015 et est fournis par le site gouvernemental [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/).
 
 ## Méthodologie
 
