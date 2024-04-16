@@ -12,7 +12,7 @@ best_model = load('bestModel.joblib')
 # Titre de l'application
 st.title('Prédiction des émissions de CO2 en France')
 st.subheader('Auteur: Ismael YODA')
-st.write("Cette application est destinée à éffectuer la prédiction en g/km,les émissions de CO2 des véhicules commercialisés en France. Elle prend en entrée les caractéristiques techniques du véhicule et sa consommation en carburant et elle renvoie en sortie la prédiction de son émission de CO2 en g/km.")
+st.write("Cette application est destinée à éffectuer la prédiction en g/km des émissions de CO2 des véhicules commercialisés en France. Elle prend en entrée les caractéristiques techniques du véhicule et sa consommation en carburant et elle renvoie en sortie la prédiction de son émission de CO2 en g/km.")
 
 
 # Fonction de prédiction
