@@ -4,7 +4,7 @@
 <img width="1000" alt="Capture_Pollution" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/c43ff115-477b-4fd0-8e3e-12ae315ccbee">
 
 
-A travers ce projet, je renforce mes compétences en analyses exploratoires de données avec **python**, en développement de modèles de machine learning pour résoudre des problèmes métiers concrets, en construction de pipelines de machine learning et en déploiement de modèles de machine learning via une interface graphique web avec **streamlit** et une API **FastAPI**.
+A travers ce projet, j'ai amélioré mes capacités en analyse de données, en création de modèles prédictifs et en déploiement de ces modèles sur une plateforme web (**Streamlit** et **FastAPI**).
 
 
 ## Contexte: 
