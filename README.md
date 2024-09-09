@@ -4,7 +4,7 @@
 <img width="1000" alt="Capture_Pollution" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/c43ff115-477b-4fd0-8e3e-12ae315ccbee">
 
 
-Dans ce projet, j'ai créé un modèle prédictif des émissions de CO2 en en l/100 km que je déploie sur une plateforme web (**Streamlit** et **FastAPI**).
+Dans ce projet, j'ai créé un modèle prédictif des émissions de CO2 en en g/km que je déploie sur une plateforme web (**Streamlit** et **FastAPI**).
 
 ## Contexte: 
 
